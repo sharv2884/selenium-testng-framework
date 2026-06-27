@@ -1,0 +1,11 @@
+target/
+logs/
+screenshots/
+test-output/
+.classpath
+.project
+.settings/
+.mvn/
+*.log
+.DS_Store
+Thumbs.db
